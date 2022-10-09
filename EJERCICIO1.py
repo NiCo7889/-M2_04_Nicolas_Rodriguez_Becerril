@@ -8,7 +8,7 @@ print(tupla)
 print(lista[1])
 print(tupla[-2])
 #apartado
-lista[0]="he cambiado este elemento"
+lista[0]=="he cambiado este elemento"
 print(lista[0])
 print(tupla[2]=="he cambiado este elemento")
 #apartado
